@@ -5,7 +5,7 @@
 IntakeAgent is a conversational AI that acts as a virtual medical receptionist. It chats with patients (in English or Urdu) to gather their medical history, symptoms, medications, and allergies *before* they see the doctor.
 
 ## 🚀 Live Demo
-*(https://intakeagent.streamlit.app/)*
+*[(https://intakeagent.streamlit.app/)](https://intakeagent.streamlit.app/)*
 
 ## 💡 The Problem
 Nurses and clinic staff waste hours every day asking the same intake questions over the phone or on paper. When the doctor finally sees the patient, the history is often incomplete.
